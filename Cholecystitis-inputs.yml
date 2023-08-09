@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/cholecystitis-calculus---primary.py
+inputModule3:
+  class: File
+  path: python/cholecystitis-obstruction---primary.py
+inputModule4:
+  class: File
+  path: python/other-cholecystitis---primary.py
+inputModule5:
+  class: File
+  path: python/acute-cholecystitis---primary.py
+inputModule6:
+  class: File
+  path: python/cholecystitis-gallbladder---primary.py
+inputModule7:
+  class: File
+  path: python/cholecystitis---primary.py
+inputModule8:
+  class: File
+  path: python/cholecystitis-gallbladder---secondary.py
+inputModule9:
+  class: File
+  path: python/cholecystitis-calculus---secondary.py
+inputModule10:
+  class: File
+  path: python/cholecystitis---secondary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
